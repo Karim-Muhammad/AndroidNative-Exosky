@@ -1,0 +1,26 @@
+[
+  {"name": "Star1", "x": 0.01, "y": 0.05, "brightness": 0},
+  {"name": "Star2", "x": 0.10, "y": 0.15, "brightness": 0},
+  {"name": "Star3", "x": 0.90, "y": 0.25, "brightness": 0},
+  {"name": "Star6", "x": 0.80, "y": 0.35, "brightness": 1},
+  {"name": "Star6", "x": 1.70, "y": 0.55, "brightness": 1},
+  {"name": "Star8", "x": 0.10, "y": 0.5, "brightness": 3.8},
+  {"name": "Star4", "x": 0.78, "y": 0.85, "brightness": 0},
+  {"name": "Star4", "x": 1.70, "y": 0.45, "brightness": 0},
+  {"name": "Star4", "x": 0.50, "y": 0.35, "brightness": 0},
+  {"name": "Star8", "x": 0.20, "y": 0.55, "brightness": 3.8},
+  {"name": "Star8", "x": 0.20, "y": 0.55, "brightness": 3.8},
+  {"name": "Star4", "x": 0.60, "y": 0.35, "brightness": 0},
+  {"name": "Star5", "x": 0.40, "y": 0.45, "brightness": 1},
+  {"name": "Star6", "x": 0.50, "y": 0.205, "brightness": 1},
+  {"name": "Star6", "x": 1.40, "y": 0.55, "brightness": 1},
+  {"name": "Star7", "x": 0.60, "y": 0.65, "brightness": 1},
+  {"name": "Star8", "x": 0.40, "y": 0.75, "brightness": 3.8},
+  {"name": "Star8", "x": 0.20, "y": 0.55, "brightness": 3.8},
+
+  {"name": "Star8", "x": 0.70, "y": 0.35, "brightness": 3.8}
+
+
+
+
+    ]
